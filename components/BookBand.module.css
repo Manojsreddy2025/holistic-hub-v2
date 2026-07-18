@@ -1,0 +1,49 @@
+.band {
+  background: var(--deep-2);
+  color: var(--on-deep);
+  position: relative;
+  overflow: hidden;
+}
+
+.stem {
+  position: absolute;
+  right: clamp(-40px, 2vw, 60px);
+  bottom: -30px;
+  width: clamp(90px, 12vw, 150px);
+  color: oklch(96% 0.02 190 / 0.16);
+  pointer-events: none;
+}
+
+.inner {
+  position: relative;
+  padding-block: clamp(64px, 9vw, 110px);
+  display: grid;
+  gap: 28px;
+  max-width: 720px;
+}
+
+.heading {
+  color: var(--on-deep);
+  font-size: clamp(2rem, 4.4vw, 3.2rem);
+  font-weight: 350;
+}
+
+.sub {
+  color: var(--on-deep-muted);
+  font-size: 18px;
+  max-width: 54ch;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: center;
+}
+
+.contactLine {
+  color: var(--on-deep-muted);
+  font-size: 15.5px;
+}
+.contactLine a { color: var(--on-deep); text-decoration-color: oklch(96% 0.02 190 / 0.4); }
+.contactLine a:hover { color: #fff; }
