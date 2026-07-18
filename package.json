@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "deploy": "GITHUB_PAGES=1 next build && touch out/.nojekyll && cd out && git init -q -b gh-pages && git add -A && git commit -q -m Deploy && git push -f https://github.com/Manojsreddy2025/holistic-hub-v2.git gh-pages && cd .. && rm -rf out/.git"
   },
   "dependencies": {
     "next": "16.2.10",
