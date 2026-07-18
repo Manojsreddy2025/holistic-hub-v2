@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/holistic-hub-v2/_next/static/chunks/0o_g-rdisrucz.js","/holistic-hub-v2/_next/static/chunks/1588biwdo6fnm.js"],"ViewportBoundary"]
+3:I[97367,["/holistic-hub-v2/_next/static/chunks/0o_g-rdisrucz.js","/holistic-hub-v2/_next/static/chunks/1588biwdo6fnm.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Holistic Heal Hub — Homoeopathy & Psychotherapy, Hyderabad"}],["$","meta","1",{"name":"description","content":"The practice of Dr. Sammeta Madhavi: 25+ years of homoeopathy and psychotherapy, treating body and mind together. All consultations online, over secure video, worldwide."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rd5ovpCfWi_KZVBniBoRo"}
